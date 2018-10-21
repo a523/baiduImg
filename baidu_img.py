@@ -5,7 +5,7 @@ import requests
 
 
 REQUEST_URL = 'http://image.baidu.com/search/avatarjson?tn=resultjsonavatarnew'
-KEY_WORD = '人脸',
+KEY_WORD = '人脸'
 FILE = 'img_url.txt'
 START_NUM = 1
 END_NUM = 10
